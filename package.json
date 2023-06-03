@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@tensorflow-models/coco-ssd": "^2.2.2",
-    "@tensorflow/tfjs": "^4.4.0",
     "@tensorflow/tfjs-converter": "^3.21.0",
     "@tensorflow/tfjs-node": "^4.4.0",
     "body-parser": "^1.20.2",
