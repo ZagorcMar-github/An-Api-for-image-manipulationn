@@ -1,6 +1,6 @@
 # An-Api-for-image-manipulationn
-# predhodna zahteva
-Najprej moramo namestiti nodejs (api trenutno dela na veziji node 18.12.1)
+# predhodne zahteve
+Najprej moramo namestiti nodejs (api trenutno dela na verziji node 18.12.1)
 
 Če želite namestiti odvisnosti sledite naslednjim korakom:
 
