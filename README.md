@@ -1,8 +1,9 @@
 # An-Api-for-image-manipulationn
 # predhodne zahteve
-Najprej moramo namestiti nodejs (api trenutno dela na verziji node 18.12.1)
+Najprej moramo namestiti nodejs (api trenutno dela na verziji node 18.12.1),na windows operacjskem sistemu
 
 Če želite namestiti odvisnosti sledite naslednjim korakom:
+najprej: npm install -g node-gyp
 
 Odprite terminal ali ukazno vrstico.
 Pojdite v imenik projekta, kjer se nahaja datoteka package.json.
