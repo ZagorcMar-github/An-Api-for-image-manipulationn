@@ -103,6 +103,7 @@ Opomba: Vse končne točke pričakujejo zahtevo multipart/form-data z ustreznimi
 
 Primer uporabe api sem dodal v mapo frontedTestZaDetection, gre za preprost html dkument z nekaj txt polji in gumbi
 
-API ni primeren za štetje velikih gruč ljudi, dobr deluje z recimo
+API ni primeren za štetje velikih gruč ljudi, dobr deluje z recimo:
+
 ![649-07238638en_Masterfile](https://github.com/Zahribc/An-Api-for-image-manipulationn/assets/115155991/a5e63b1c-fce7-4fbc-a035-da04b7eb565d)
 
